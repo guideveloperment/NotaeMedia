@@ -1,25 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
-
-//void main () 
-//{
-//	int id;
-//	printf ("idade?"); 	scanf ("%d", &id);
-	
-//	if (id>=18)		printf("Adulto: %d", id);
-//	else			printf("Não eh Adulto: %d", id);
-	
-
-
-//}
-
-//Ex. 01 Escreva um programa que exiba os números pares entre 1 e 100.
-
-#include <stdio.h>
-#include <stdlib.h>
-
 
 //aperta F11  - escolher a extensão.c
 // colocar nome.c
